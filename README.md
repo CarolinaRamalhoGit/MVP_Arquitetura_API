@@ -1,7 +1,7 @@
 # Gestão de Validades de um Mini Mercado Autônomo (API)
 ## 1. Introdução
 
-Este projeto é parte do MVP - _Minimum Viable Product_ - da _Sprint_ **Arquitetura de _Softwares_** do Curso de Engenharia de Software da PUC-Rio. O MVP é composto de um Front-End, que se comunica com uma API Externa (Telegram BOT API) e com um Back-End, com persistência de dados em um banco SQLite, conforme ilustrado na Figura abaixo. Neste repositório encontra-se a parte do Back-end da aplicação. A parte do front-end pode ser acessada em [MVP_Arquitetura_Front-End](https://github.com/CarolinaRamalhoGit/MVP_Arquitetura_Front_end).
+Este projeto é parte do MVP - _Minimum Viable Product_ - da _Sprint_ **Arquitetura de _Softwares_** do Curso de Engenharia de Software da PUC-Rio. O MVP é composto de um Front-End, que se comunica com uma API Externa (Telegram BOT API) e com um Back-End, com persistência de dados em um banco SQLite, conforme ilustrado na Figura abaixo. Neste repositório encontra-se a parte do Back-end da aplicação. A parte do front-end pode ser acessada em [MVP_Arquitetura_Front_End](https://github.com/CarolinaRamalhoGit/MVP_Arquitetura_Front_end).
 
 ![Figura 1 - Arquitetura da Aplicação](img/Diagrama.png)
 
